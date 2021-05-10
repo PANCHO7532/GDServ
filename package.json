@@ -1,0 +1,19 @@
+{
+  "name": "gdserv-js",
+  "version": "0.0.1",
+  "description": "Geometry Dash Private Server",
+  "main": "gdserv.js",
+  "scripts": {
+    "dev": "nodemon gdserv.js --ip 127.0.0.1 --port 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PANCHO7532/gdserv.git"
+  },
+  "author": "PANCHO7532",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PANCHO7532/gdserv/issues"
+  },
+  "homepage": "https://github.com/PANCHO7532/gdserv#readme"
+}

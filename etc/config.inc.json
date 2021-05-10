@@ -1,0 +1,13 @@
+{
+    "serverHost": "",
+    "serverPort": 0,
+    "endpoints": [
+        {"pointName": "/database/accounts/loginGJAccount.php", "pointDest": "accounts/loginAccount.inc.js"},
+        {"pointName": "/database/accounts/registerGJAccount.php", "pointDest": "accounts/registerAccount.inc.js"}
+    ],
+    "emailBlacklist": [
+        "@example.com",
+        "someone@contoso.com"
+    ],
+    "enforceSteamCheck": true
+}
