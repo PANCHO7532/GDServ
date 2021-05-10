@@ -12,6 +12,6 @@ IF "%ANSW%" == "y e s" (
     git commit -m "P7RND_%randomNumber%"
     git push origin master
     ECHO [INFO] Upload script done!
-) else (
+) ELSE (
     ECHO [ERROR] Aborting...
 )
