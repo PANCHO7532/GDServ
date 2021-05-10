@@ -8,3 +8,4 @@ test.js
 
 # Other rules
 etc/serverData/players.db.json
+etc/config.inc.json
