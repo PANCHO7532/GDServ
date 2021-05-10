@@ -15,4 +15,6 @@ Following those steps will open a local server on port 80 where you can do your 
 - Registration
 
 It ain't much at this time but i'll update with advances and so on.
+
+Please open a issue if you have a question or a pull request if you want to contribute to the code! :D
 ### Copyright PANCHO7532 - P7COMunications LLC
