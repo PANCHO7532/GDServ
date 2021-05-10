@@ -1,0 +1,10 @@
+# Ignore basic P7COM development workspace
+no_deploy/
+node_modules/
+libTest/
+nodeBugReport/
+package-lock.json
+test.js
+
+# Other rules
+etc/serverData/players.db.json
