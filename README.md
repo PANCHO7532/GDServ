@@ -5,6 +5,7 @@ Geometry Dash Private Server
 
 ## How to run
 - If you don't have installed Node.JS install it now from this link: [Download Here](https://nodejs.org/en/download/ "Node.JS Download")
+- Be sure to modify etc/config.inc.json with the correct endpoints that you actually need
 - Once installed, install nodemon by opening a terminal and writing: `npm install -g nodemon`
 - Once completed, close that terminal and open a new one on the folder where gdserv.js is
 - Execute `npm run dev`
