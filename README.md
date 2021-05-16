@@ -14,6 +14,11 @@ Following those steps will open a local server on port 80 where you can do your 
 ## Features working
 - Login
 - Registration
+- Level Upload
+
+## Supported Geometry Dash versions
+- 1.0
+- 2.1.1 (Registration and Login only)
 
 It ain't much at this time but i'll update with advances and so on.
 
